@@ -2,7 +2,7 @@
 This repository contains the projects, exercises and examples found in the book __Hands-on-ML-Scikit-Learn-and-TensorFlow__ by 
 Aurelien Geron.
 
-In this book, Python, Python Pandas, Scikit-Learn and TensorFlow are used to solve problems in ML and DL, thus, the main purpose 
+In this book, Python, pandas, Scikit-Learn and TensorFlow are used to solve problems in ML and DL, thus, the main purpose 
 of this repository is to show and archive my learning process. Whenever necessary, I will go byond to what's written in the book by 
 adding useful Pandas and Scikit-Learn documentation such that other inexperienced learners (such as myself) have a simpler time 
 understanding the contents of the book and these awesome tools!
